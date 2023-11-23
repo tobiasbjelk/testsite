@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Unified Cloud Excellence',
+    Svg: require('@site/static/img/greencloud.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Streamline your cloud operations with our standardized platform, harmonizing top cloud capabilities for superior performance and efficiency. 
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Innovative Hybrid Solutions',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Unlock the full potential of your cloud journey by leveraging our platform's strength in integrating diverse cloud environments with on-premise solutions.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Architecture driven',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+       Our platform is meticulously designed with a robust, architecture-first approach, ensuring that every aspect adhere Lantmännens arhcitectual artifacts.
       </>
     ),
   },
